@@ -1,3 +1,3 @@
 <?php
-echo "Hiiiiiii";
+echo "Hiiiiiii Index.php";
 ?>
